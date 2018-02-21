@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="lwjgl-openvr-sources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lwjgl/lwjgl-opengl/lwjgl-opengl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl/lwjgl-opengl/lwjgl-opengl-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl/lwjgl-glfw/lwjgl-glfw.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl/lwjgl-glfw/lwjgl-glfw-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl/lwjgl/lwjgl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl/lwjgl/lwjgl-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl/slick.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl/lwjgl-stb/lwjgl-stb-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl/lwjgl-stb/lwjgl-stb.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lwjgl/lwjgl-opengl/lwjgl-opengl-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl/lwjgl-glfw/lwjgl-glfw-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl/lwjgl/lwjgl-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl/lwjgl-stb/lwjgl-stb-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
